@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Primer",
+    "price": 32000,
+    "image":
+  },
+  {
+    "name": "Bronzer",
+    "price": 28000,
+    "image":
+  },
+  {
+    "name": "Eyeliner",
+    "price": 21000,
+    "image":
+  },
+  {
+    "name": "Foundation",
+    "price": 34000,
+    "image":
+  },
+  {
+    "name": "Facial Mask",
+    "price": 24000,
+    "image":
+  },
+  {
+    "name": "Body Lotion",
+    "price": 25000,
+    "image":
+  },
+  {
+    "name": "Night Cream",
+    "price": 30000,
+    "image":
+  },
+]
