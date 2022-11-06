@@ -2,36 +2,36 @@
   {
     "name": "Primer",
     "price": 32000,
-    "stock": 5
+    "stock": 159
   },
   {
     "name": "Bronzer",
     "price": 28000,
-    "stock": 8
+    "stock": 150
   },
   {
     "name": "Eyeliner",
     "price": 21000,
-    "stock": 6
+    "stock": 150
   },
   {
     "name": "Foundation",
     "price": 34000,
-    "stock": 4
+    "stock": 150
   },
   {
     "name": "Facial Mask",
     "price": 24000,
-    "stock": 8
+    "stock": 150
   },
   {
     "name": "Body Lotion",
     "price": 25000,
-    "stock": 7
+    "stock": 150
   },
   {
     "name": "Night Cream",
     "price": 30000,
-    "stock": 10
+    "stock": 150
   },
 ]
