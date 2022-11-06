@@ -1,42 +1,42 @@
 [
   {
-    "img": "https://drive.google.com/file/d/1opXb2ncdybKzt5rHF5CkvXIGO36PvOdA/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1opXb2ncdybKzt5rHF5CkvXIGO36PvOdA/view?usp=share_link"
     "name": "Primer",
     "price": 32000,
     "stock": 159
   },
   {
-    "img": "https://drive.google.com/file/d/1ownxEe4cy0LX3n1olfb8sqX6P4ozO9z9/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1ownxEe4cy0LX3n1olfb8sqX6P4ozO9z9/view?usp=share_link"
     "name": "Bronzer",
     "price": 28000,
     "stock": 150
   },
   {
-    "img": "https://drive.google.com/file/d/1N-ve6e2R5zMvhjpMIMQLS0Fdk8A4NjSV/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1N-ve6e2R5zMvhjpMIMQLS0Fdk8A4NjSV/view?usp=share_link"
     "name": "Eyeliner",
     "price": 21000,
     "stock": 150
   },
   {
-    "img": "https://drive.google.com/file/d/1jlKEqfVRkS4V9cdz1IxSWvOeiayG0Lwm/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1jlKEqfVRkS4V9cdz1IxSWvOeiayG0Lwm/view?usp=share_link"
     "name": "Foundation",
     "price": 34000,
     "stock": 150
   },
   {
-    "img": "https://drive.google.com/file/d/1ZwO2oaZ_LVRagloTmlsLEE0DXcOQvwN2/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1ZwO2oaZ_LVRagloTmlsLEE0DXcOQvwN2/view?usp=share_link"
     "name": "Facial Mask",
     "price": 24000,
     "stock": 150
   },
   {
-    "img": "https://drive.google.com/file/d/1HkcQaSx_hFv_vVcKlwupbQpPMWdza4x7/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1HkcQaSx_hFv_vVcKlwupbQpPMWdza4x7/view?usp=share_link"
     "name": "Body Lotion",
     "price": 25000,
     "stock": 150
   },
   {
-    "img": "https://drive.google.com/file/d/1C_4pb8OdllhWRcTLKcDpmgF-dZf4rdiH/view?usp=share_link"
+    "img_name": "https://drive.google.com/file/d/1C_4pb8OdllhWRcTLKcDpmgF-dZf4rdiH/view?usp=share_link"
     "name": "Night Cream",
     "price": 30000,
     "stock": 150
